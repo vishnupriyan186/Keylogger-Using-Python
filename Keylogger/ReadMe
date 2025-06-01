@@ -1,0 +1,6 @@
+Steps:
+l.lnstall Python and the pynput library (pip install pynput).
+2.Write a script to listen for keystrokes using pynput.keyboard.Listener.
+3.Save keystrokes in a local text file. Add a way to stop the script
+pressjng a specific key).
+4.Run the script in a controlled environment.
